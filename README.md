@@ -7,11 +7,13 @@ Since I wrote my master thesis under the research group in the Institute of Scie
 
 Below are explanations of some explanations of core variables.
 
-MES: Mining Event Scale [MES], which indicates the intensity and impact on an 11-level ordinal scale, ranging from -5 (most conflictive event) to +5 (most cooperative event). Value 0 is assigned to neutral events. 
+- MES: Mining Event Scale [MES], which indicates the intensity and impact on an 11-level ordinal scale, ranging from -5 (most conflictive event) to +5 (most cooperative event). Value 0 is assigned to neutral events. 
 
-MES score: MES values for all events are summed up in each region or mine projects to capture both MES intensity and event frequencies. 
+- MES score: MES values for all events are summed up in each region or mine projects to capture both MES intensity and event frequencies. 
 
-Cooperation/Conflict score: similar to MES scores, MES values for all events are summed up in each region or mine projects, seperately for conflictive events and cooperative events.
+- Cooperation/Conflict score: similar to MES scores, MES values for all events are summed up in each region or mine projects, seperately for conflictive events and cooperative events.
 
-Drivers: these are drivers behind each event, to explain why did a cooperative/conflictive event happened?
+- Drivers: these are drivers behind each event, to explain why did a cooperative/conflictive event happened?
+
+# the text label on maps are main mine projects mentioned by news reports.
 
