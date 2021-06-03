@@ -15,5 +15,5 @@ Below are explanations of some explanations of core variables.
 
 - Drivers: these are drivers behind each event, to explain why did a cooperative/conflictive event happened?
 
-# the text label on maps are main mine projects mentioned by news reports.
+* the text label on maps are main mine projects mentioned by news reports.
 
